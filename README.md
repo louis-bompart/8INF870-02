@@ -5,6 +5,9 @@
 * Lancer la simulation de la scene
 * Pour jouer utiliser sd ou les fleches directionnels
 * Pour modifier les parametres du niveau, modifier l'objet niveau dans l'inspecteur en modifiant N pour la taille et X pour le nombre de bonus
+
+##Extrait du code de calcul du chemin optimal et du meilleur score
+**attention, code surcommenter ci-dessous**
 ```csharp
 Cette algo est utilise par l'IA pour calculer son chemin
     /// <summary>
