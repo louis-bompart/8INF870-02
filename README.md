@@ -1,3 +1,4 @@
+```csharp
     /// <summary>
     /// Calcul le meilleur score atteignable depuis ce noeud ainsi que le prochain bonus a viser et le meilleur gain de score de ce bonus.
     /// </summary>
@@ -48,3 +49,4 @@
         //On renvoie le score maximal atteint avec cette case, compte tenu du score offert en entree
         return currentNextMax;
     }
+```
