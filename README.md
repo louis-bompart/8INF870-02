@@ -1,10 +1,10 @@
 #8INF870-02
 ##Guide d'utilisation:
-Cloner/telecharger le projet et ouvrez le avec Unity 5.5.0f3
-Ouvrez la scene "scene"
-Lancer la simulation de la scene
-Pour jouer utiliser sd ou les fleches directionnels
-Pour modifier les parametres du niveau, modifier l'objet niveau dans l'inspecteur en modifiant N pour la taille et X pour le nombre de bonus
+* Cloner/telecharger le projet et ouvrez le avec Unity 5.5.0f3
+* Ouvrez la scene "scene"
+* Lancer la simulation de la scene
+* Pour jouer utiliser sd ou les fleches directionnels
+* Pour modifier les parametres du niveau, modifier l'objet niveau dans l'inspecteur en modifiant N pour la taille et X pour le nombre de bonus
 ```csharp
 Cette algo est utilise par l'IA pour calculer son chemin
     /// <summary>
